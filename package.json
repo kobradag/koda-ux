@@ -1,12 +1,12 @@
 {
-  "name": "@kaspa/ux",
+  "name": "@kobradag/ux",
   "version": "1.0.30",
   "description": "Kobra Wallet User Interface Framework",
   "main": "kaspa-ux.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/kaspa-ux"
+    "url": "git+https://github.com/kobradag/koda-ux"
   },
   "keywords": [],
   "dependencies": {},
