@@ -1,6 +1,6 @@
 {
-  "name": "@kobradag/ux",
-  "version": "1.0.30",
+  "name": "@koda/ux",
+  "version": "1.0.0",
   "description": "Kobra Wallet User Interface Framework",
   "main": "kaspa-ux.js",
   "private": true,
